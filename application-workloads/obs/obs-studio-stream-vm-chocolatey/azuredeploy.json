@@ -53,7 +53,7 @@
                 "Standard_NV24s_v3",
                 "Standard_NV48s_v3",
                 "Standard_NC6s_v3",
-                "Standard_NC12"
+                "Standard_NC12s_v3"
             ]
         },
         "virtualNetwork_name": {
